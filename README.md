@@ -2,10 +2,10 @@
 A basic task list page.
 
 # Features
-Infinite number of lists
+Infinite number of lists.
 
-All text in lists are editable
+All text in lists are editable.
 
-Adding/Removing rows by button
+Adding/Removing rows by button.
 
 Checkbox to mark as complete.
