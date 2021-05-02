@@ -9,3 +9,5 @@ All text in lists are editable.
 Adding/Removing rows by button.
 
 Checkbox to mark as complete.
+
+Localstorage saving to maintain lists on reload.
